@@ -24,19 +24,19 @@ Secure payment gateway with Stripe.
 Handles real transactions and order confirmations.
 
 ## Project Structure
-eshop/
-│
-├── client/    # Frontend (React + Material UI)
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── server/    # Backend (Strapi)
-│   ├── api/
-│   ├── config/
-│   └── package.json
-│
-└── README.md
+eshop/<br>
+│<br>
+├── client/    # Frontend (React + Material UI)<br>
+│   ├── src/<br>
+│   ├── public/<br>
+│   └── package.json<br>
+│<br>
+├── server/    # Backend (Strapi)<br>
+│   ├── api/<br>
+│   ├── config/<br>
+│   └── package.json<br>
+│<br>
+└── README.md<br>
 
 ## Tech Stack
 
